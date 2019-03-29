@@ -6,7 +6,7 @@
  * Easing function from jQuery Easing plugin: http://gsgd.co.uk/sandbox/jquery/easing/
  * Thousands separator code: http://www.webmasterworld.com/forum91/8.htm
  *
- * @author John J. Camilleri
+ * @author te3ska3
  * @version 1.2
  */
 
